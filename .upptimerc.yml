@@ -3,7 +3,7 @@ repo: craq-uptime
 
 sites:
   - name: Website
-    url: https://craq.eu
+    url: https://craq.eu/de
   - name: App
     url: https://app.craq.eu
   - name: API
